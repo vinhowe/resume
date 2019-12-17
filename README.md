@@ -1,1 +1,3 @@
-# My vanilla HTML-CSS resume
+# My vanilla HTML/CSS resume
+
+![](./screenshots/responsive.gif)
